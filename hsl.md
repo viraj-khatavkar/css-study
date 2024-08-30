@@ -17,3 +17,8 @@ l - lightness
   - Lightness is on y-axis
   - Values are from 0% to 100%
   - It becomes blacked out at 0% and white'd out at 100%
+
+Syntax:
+```css
+background-color: hsl(340deg 100% 50%);
+```
